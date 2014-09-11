@@ -1,0 +1,54 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings">
+
+ <menu>
+     <item android:id="@+id/history"
+        android:title="clips history"
+        android:showAsAction="always"
+         />
+ 
+ 
+  <item android:id="@+id/actionEmail"
+        android:showAsAction="always"
+       	android:title="Email" />
+  
+  
+  <item android:id="@+id/lookup"
+        android:title="Lookup"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_dialog_email"/>
+  
+  <item android:id="@+id/actioNIGHT"
+        android:title="Night Mode"
+        android:showAsAction="always"
+         />
+  <item android:id="@+id/english_chinese"
+        android:title="English/Chineses"  
+        android:showAsAction="always"/>
+  
+    
+  <item android:id="@+id/track"
+        android:title="Track"  
+        android:showAsAction="always"/>
+  
+   <item android:id="@+id/display"
+        android:title="Display"  
+        android:showAsAction="always"/>
+  
+  <item android:id="@+id/usage"
+        android:title="usage times"
+        android:showAsAction="always"/>
+  
+    
+        </menu>
+    </item>
+
+
+
+</menu>

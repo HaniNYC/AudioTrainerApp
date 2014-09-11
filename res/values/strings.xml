@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AudioTest</string>
+    <string name="title_activity_main">Tīng​Shuō​</string>
+    <string name="playButtonLabel">说</string>
+    <string name="hanziButtonLabel">字</string>
+    <string name="repeatButtonLabel">重</string>
+    <string name="pauseButtonLabel">休</string>
+    <string name="startTime">0:00</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="reset">Reset</string>
+    <string name="reallyReset">Reset timer and discard current clip?</string>
+    <string name="quit">Confirm quit</string>
+    <string name="reallyQuit">Quit?  This will reset timer and discard current clip.</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_my_menu">MyMenu</string>
+    <string name="title_activity_email">Email</string>
+    <string name="title_activity_english">English</string>
+    
+    
+    <string name="NightMode">Night Mode</string>
+    <string name="updateButton"> Update </string>
+    <string name="Night_Mode"> Night Mode </string>
+    <string name="myEmail">Email </string>
+    <string name="my_setting"> Setting </string>
+    <string name="title_activity_main_menu">Main Menu</string>
+    <string name="action_search">Search</string>
+    <string name="send_message">Send</string>
+    <string name="send_email">Send</string>
+    <string name="Enter_Email_Address">Enter A Destination Email Address</string>
+    <string name="action_email">Email</string>
+    <string name="download_clips">Update Clips</string>
+    <string name="location">Location</string>
+ 
+    <string name="cancel_button">Cancel</string>
+    <string name="title_activity_counter">Counter</string>
+    <string name= "view_flipper"> flipper</string>
+    <string name="textView1">text view 1</string>
+    <string name= "textView2"> text view 2</string>
+    <string name="chooseAlanguage">Choose a language</string>
+    <string name="englishLang">English</string>
+    <string name="manderin">Mandrein</string>
+    <string name="title_languages">Choose a languages</string>
+
+</resources>
